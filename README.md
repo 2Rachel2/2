@@ -2,7 +2,7 @@
 
 한국사능력검정시험 공부를 게임처럼 기록하는 웹 페이지입니다. 퀘스트를 체크하면 경험치(XP)가 쌓이고, 레벨이 오르고, 보스를 클리어합니다. 파일 하나(`index.html`)로 동작하며 설치와 서버가 필요 없습니다.
 
-**바로 써 보기:** https://2Rachel2.github.io/2/ (GitHub Pages로 공개한 뒤 이 주소로 바꿔 적으세요)
+**바로 써 보기:** https://2Rachel2.github.io/2/ 
 
 ## 주요 기능
 
@@ -25,13 +25,6 @@
 
 - 기록은 쓰는 기기의 브라우저에만 저장됩니다. 서버로 전송되지 않고, 다른 기기에서 열면 새로 시작합니다.
 - 브라우저의 사이트 데이터를 지우거나 시크릿 모드로 열면 기록이 사라질 수 있습니다.
-
-## 내 GitHub에 올리는 방법
-
-1. `New repository`로 **Public** 저장소를 만듭니다.
-2. `uploading an existing file`로 `index.html`과 `README.md`를 올리고 `Commit changes`를 누릅니다.
-3. `Settings` → `Pages`에서 Source를 `Deploy from a branch`, Branch를 `main` / `/ (root)`로 고르고 `Save`를 누릅니다.
-4. 1~2분 뒤 `https://내아이디.github.io/저장소이름/`으로 열립니다.
 
 ## 기술
 
